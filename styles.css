@@ -13,7 +13,7 @@ justify-content: center;
 
 .container { 
     background-color: var(--White);
-    width: 30vw;
+    width: 25vw;
     max-width: fit-content;
     height: 100%;
     max-height: fit-content;
@@ -30,8 +30,8 @@ justify-content: center;
 }
 
 img {
-    width: 28vw;
-    height: 47vh;
+    width: 23vw;
+    height: 44vh;
     border-radius: 13px
 }
 
